@@ -16,11 +16,9 @@
 [<img align="left" alt="Silent warrior | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Silent warrior | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobkamau&count_private=true&show_icons=true&theme=radical)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobkamau&theme=radical)
-
+### Lets Connect 🌎
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bob-mwangi-b4b626161/)](https://www.linkedin.com/in/bob-mwangi-b4b626161/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/the real code0ped1a)](https://twitter.com/the real code0Ped1a)
