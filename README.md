@@ -21,4 +21,4 @@
 
 ### Lets Connect 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bob-mwangi-b4b626161/)](https://www.linkedin.com/in/bob-mwangi-b4b626161/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/the real code0ped1a)](https://twitter.com/the real code0Ped1a)
+
