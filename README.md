@@ -5,7 +5,7 @@
 - 👲 I'm currently learning everything
 - 🤝 I'm looking to collaborate with other software engineers, writers and bloggers
 - 🌞 2022 goals: Contribute more to Open Source projects
-- ⚡️ Fun fact: I love cars and everything that they come with 🚙!
+- ⚡️ Fun fact: I love cars and everything they come with 🚙!
 
 
 ### Connect with me:
