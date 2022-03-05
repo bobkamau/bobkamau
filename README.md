@@ -1,7 +1,7 @@
 ### Hi there, I'm Robert - aka [Silent warrior][itinga.co.ke] 👋
 
 ## I'm a Father, Software Engineer, Blogger, Writer and Teacher!
-- 🎓 I'm currently a student at ALX
+- 🎓 I'm currently a student
 - 👲 I'm currently learning everything
 - 🤝 I'm looking to collaborate with other software engineers, writers and bloggers
 - 🌞 2022 goals: Contribute more to Open Source projects
