@@ -17,6 +17,7 @@
 [<img align="left" alt="Silent warrior | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobkamau&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobkamau&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Lets Connect 🌎
