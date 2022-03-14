@@ -1,4 +1,4 @@
-### Hi there, I'm Robert - aka [Silent warrior][itinga.co.ke] 👋
+### Hi there, I'm Robert - aka [Silent warrior][www.bobbymwangi.com] 👋
 
 ## I'm a Father, Software Engineer, Blogger, Writer and Teacher!
 - 🎓 I'm currently a student
