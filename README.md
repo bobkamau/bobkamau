@@ -3,7 +3,7 @@ Also checkout my car blogs @ [www.grippinggears.com]👋
 
 ## I'm a Father, Software Engineer, Blogger, and Writer!
 - 🎓 I'm currently a software engineering student
-- 👲 I'm currently learning learning multiple languages
+- 👲 I'm currently learning multiple languages
 - 🤝 I'm looking to collaborate with other software engineers, writers and bloggers
 - 🌞 2022 goals: Contribute more to Open Source projects
 - ⚡️ Fun fact: I love cars and everything they come with 🚙!
