@@ -7,6 +7,7 @@ Also checkout my car blogs @ [www.grippinggears.com]👋
 - 🤝 I'm looking to collaborate with other software engineers, writers and bloggers
 - 🌞 2022 goals: Contribute more to Open Source projects
 - ⚡️ Fun fact: I love cars and everything they come with 🚙!
+- 🏎️ Revhead
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobkamau&count_private=true&show_icons=true&theme=radical)
