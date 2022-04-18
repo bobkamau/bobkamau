@@ -1,5 +1,5 @@
 ### Hi there, I'm Bobby - aka [Silent warrior][www.bobbymwangi.com] 
-Also checkout my car blogs @ [www.grippinggears.com]👋
+Also checkout my car blogs @  [www.grippinggears.com]
 
 ## I'm an Entrepreneur, Software Engineer, Blogger, and Writer!
 - 🎓 I'm currently a software engineering student
