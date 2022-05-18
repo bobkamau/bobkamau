@@ -1,4 +1,4 @@
-### Hi there, I'm Bobby - aka [Silent warrior][www.bobbymwangi.com] 
+Hi There :wave: I'm Bobby - aka [Silent warrior][www.bobbymwangi.com] 
 Also checkout my car blogs @  [www.grippinggears.com]
 
 ## I'm an Entrepreneur, Software Engineer, Car and Lifestyle Blogger!
@@ -8,6 +8,8 @@ Also checkout my car blogs @  [www.grippinggears.com]
 - 🌞 2022 goals: Contribute more to Open Source projects
 - ⚡️ Fun fact: I love cars and everything they come with 🚙!
 - 🏎️ Revhead
+
+### Stats :chart_with_upwards_trend:
 
 
 
