@@ -13,6 +13,9 @@ Also checkout my car blogs @  [www.grippinggears.com]
 
 
 
+[![bobkamau's github stats](https://github-readme-stats.vercel.app/api?username=bobkamau&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobkamau&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Lets Connect 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bob-mwangi-b4b626161/)](https://www.linkedin.com/in/bob-mwangi-b4b626161/) 
