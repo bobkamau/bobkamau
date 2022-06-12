@@ -1,4 +1,4 @@
-Hi There :wave: I'm Bobby - aka [Silent warrior][www.bobbymwangi.com] 
+Hi There :wave: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] 
 Also checkout my car blogs @  [www.grippinggears.com]
 
 ## I'm an Entrepreneur, Contract Developer, Farmer, Car and Lifestyle Blogger!
