@@ -1,4 +1,4 @@
-## - 💬 Hey there, You can send me a message [here](https://bobbymwangi.com/contact/) 👋 :wink: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] and read some great blogs!
+## 💬 Hey there👋, You can send me a message [here](https://bobbymwangi.com/contact/) 👋 :wink: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] and read some great blogs!
 Also checkout my car blogs @  [www.grippinggears.com]
 
 ## I'm an Entrepreneur, Contract Developer, Farmer, Car and Lifestyle Blogger!
