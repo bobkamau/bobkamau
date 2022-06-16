@@ -2,8 +2,8 @@
 Also checkout my car blogs @  [www.grippinggears.com]
 
 ## I'm an Entrepreneur, Contract Developer, Farmer, Car and Lifestyle Blogger!
- 🎓 I'm a business and IT graduate
-- 🎓 I'm currently a software engineering student
+- 🎓 I'm a business and IT graduate
+- 🎓 I'm currently a software engineering student and contract developer
 - 👲 I'm working on multiple coding languages
 - 🤝 I'm looking to collaborate with other software engineers, writers and bloggers
 - 🌞 2022 goals: Contribute more to Open Source projects
