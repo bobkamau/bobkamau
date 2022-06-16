@@ -9,6 +9,10 @@ Also checkout my car blogs @  [www.grippinggears.com]
 - 🌞 2022 goals: Contribute more to Open Source projects
 - ⚡️ Fun fact: I am a car enthusiast. I love cars to bits!
 - 🏎️ Revhead
+- 🤔 Check out my repositories. If you have improvements to do, don't hesitate
+- 🌱 Digital creator 
+- 🏃 Runner
+- 🕵 Silent warrior
 
 ### Stats :chart_with_upwards_trend:
 
@@ -28,11 +32,6 @@ Also checkout my car blogs @  [www.grippinggears.com]
 
 ![1kc1](https://user-images.githubusercontent.com/75064256/169612262-464d18d0-2045-431c-b049-185b5b37de74.gif)
 
-
-- 🤔 Check out my repositories. If you have improvements to do, don't hesitate
-- 🌱 Digital creator 
-- 🏃 Runner
-- 🕵 Silent warrior
 
  
 ### ⚡ Here is one for you: 
