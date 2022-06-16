@@ -31,7 +31,8 @@ Also checkout my car blogs @  [www.grippinggears.com]
 
 - 🤔 Check out my repositories. If you have improvements to do, don't hesitate
 - 🌱 Digital creator 
-- :muscle: The beholder of Mjolnir 
+- 🏃 Runner
+- 🕵 Silent warrior
 
  
 ### ⚡ Here is one for you: 
