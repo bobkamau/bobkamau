@@ -29,9 +29,6 @@ Also checkout my car blogs @  [www.grippinggears.com]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bob-mwangi-b4b626161/)](https://www.linkedin.com/in/bob-mwangi-b4b626161/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Silentw84343056)](https://twitter.com/Silentw84343056)
 
-<img src="https://badges.pufler.dev/visits/bobkamau/bobkamau?style=flat-square&color=red&logo=github&a=0">
-
-
 
 ![1kc1](https://user-images.githubusercontent.com/75064256/169612262-464d18d0-2045-431c-b049-185b5b37de74.gif)
 
