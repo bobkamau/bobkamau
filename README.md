@@ -42,24 +42,9 @@ Also checkout my car blogs @  [www.grippinggears.com]
 <i>❝“If you look around and you don't realize who the mark is, then it's you ~ Andrew Foster(Overdrive)  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-
-### Streak
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=bobkamau">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobkamau" />
-</a>
-
-
-
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=bobkamau&theme=onedark&row=1)](https://github.com/bobkamau/github-profile-trophy)
 
-
-
-
- 
-### Contribution graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bobkamau)  
 
 
 
