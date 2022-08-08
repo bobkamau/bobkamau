@@ -1,5 +1,9 @@
-## 💬 Hey there👋, You can send me a message [here](https://bobbymwangi.com/contact/) 👋 :wink: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] and read some great blogs!
+## 💬 Hey there👋, You can send me a message [here](https://tweakmyself.com/contact/) 👋 :wink: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] to learn more.
 Also checkout my car blogs @  [www.grippinggears.com]
+ <br>
+<div align="center">
+  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
+</div>
 
 ## I'm a Businessman, Contract Developer, Farmer, Car and Lifestyle Blogger!
 - 🎓 I'm a business and IT graduate
