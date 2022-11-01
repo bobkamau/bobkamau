@@ -1,3 +1,4 @@
+<h3 align="center"> I'm Robert Sammy Kamau Mwangi, A passionate Software developer from Nairobi, Kenya</h3>
 ## 💬 Hey there👋, You can send me a message [here](https://tweakmyself.com/contact/) 👋 :wink: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] to learn more.
  <br>
 <div align="center">
@@ -17,9 +18,14 @@
 - 🏃 Runner
 - 🕵 Silent warrior
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+
 ### Stats :chart_with_upwards_trend:
-
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bobkamau&theme=highcontrast&show_icons=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobkamau&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
