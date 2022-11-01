@@ -35,11 +35,6 @@ As stated above, I'm Robert Sammy Kamau - aka [Silent warrior] Find me @ [www.bo
 ### Lets Connect 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bob-mwangi-b4b626161/)](https://www.linkedin.com/in/bob-mwangi-b4b626161/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Silentw84343056)](https://twitter.com/Silentw84343056)
-
-
-![1kc1](https://user-images.githubusercontent.com/75064256/169612262-464d18d0-2045-431c-b049-185b5b37de74.gif)
-
-
  
 ### ⚡ Here is one for you: 
 <!--STARTS_HERE_QUOTE_README-->
