@@ -43,7 +43,7 @@ As stated above, I'm Robert Sammy Kamau - aka [Silent warrior] Find me @ [www.bo
  
 ### ⚡ Here is one for you: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you look around and you don't realize who the mark is, then it's you ~ Andrew Foster(Overdrive)  ❞</i>
+<i>"If you look around and you don't realize who the mark is, then it's you" ~ Andrew Foster(Overdrive)</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Trophies
