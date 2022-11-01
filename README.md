@@ -1,5 +1,5 @@
 <h3 align="center"> I'm Robert Sammy Kamau Mwangi, A passionate Software developer from Nairobi, Kenya</h3>
-## 💬 Hey there👋, You can send me a message [here](https://tweakmyself.com/contact/) 👋 :wink: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] to learn more.
+Hey there👋, You can send me a message [here](https://tweakmyself.com/contact/) 👋 :wink: I'm Bobby - aka [Silent warrior] Find me @ [www.bobbymwangi.com] to learn more.
  <br>
 <div align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
