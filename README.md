@@ -1,5 +1,5 @@
-<h3 align="left"> Hey there👋, I'm Robert Sammy Kamau Mwangi, A passionate Software developer from Nairobi, Kenya. Here is my portfolio site showcasing my skills; portfolio.bobbymwangi.com</h3>
-As stated above, I'm Robert Sammy Kamau - aka [Silent warrior] Find me @ [www.bobbymwangi.com] to checkout my blogs.
+<h3 align="left"> Hey there👋, I'm Robert Sammy Kamau Mwangi, A passionate Software developer from Nairobi, Kenya.</h3>
+As stated above, I'm Robert Sammy Kamau - aka [Silent warrior]. Here is my portfolio site showcasing my skills; portfolio.bobbymwangi.com. Find me @ [www.bobbymwangi.com] to checkout my blogs.
  <br>
 <div align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
