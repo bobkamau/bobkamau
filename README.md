@@ -16,7 +16,6 @@ As stated above, I'm Robert Sammy Kamau - aka [Silent warrior]. Here is my portf
 - ⚡️ Fun fact: I am a petrol head🏎️. I love cars to bits!
 - 🤔 Check out my repositories. If you have improvements to do, don't hesitate.
 - 🌱 Digital creator. Here is my YouTube channel.(https://www.youtube.com/channel/UCfpETqFJoil49CyPJDPnvDw).
-- 🏃 Daily Runner.
 - 🕵 Silent warrior.
 - 🏎️ I drive a Toyota Succeed as my daily 😇. 
 
