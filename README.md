@@ -18,7 +18,7 @@ As stated above, I'm Robert Sammy Kamau - aka [Silent warrior]. Here is my portf
 - 🌱 Digital creator. Here is my YouTube channel.(https://www.youtube.com/channel/UCfpETqFJoil49CyPJDPnvDw).
 - 🏃 Daily Runner.
 - 🕵 Silent warrior.
-- 🏎️ I drive a Toyota Vitz as my daily 😇. 
+- 🏎️ I drive a Toyota Succeed as my daily 😇. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
