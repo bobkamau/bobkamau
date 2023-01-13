@@ -9,15 +9,11 @@ As stated above, I'm Robert Sammy Kamau - aka [Silent warrior]. Here is my portf
 - 🎓 I have a degree in Business and IT.
 - 🎓 I am currently pursuing my masters degree in Liverpool John Moores University.
 - 🎓 I'm currently a software engineering student and contract developer working under Itinga Technologies (www.itinga.co.ke).
-- 👲 I'm working on multiple coding languages.
 - 🤝 I'm looking to collaborate with other software engineers, writers and bloggers.
 - 🏎️ Contribute to automotive systems and fulfill a dying passion.
-- 🌞 2022 goals: Contribute more to Open Source projects.
+- 🌞 2023 goals: Contribute more to Open Source projects.
 - ⚡️ Fun fact: I am a petrol head🏎️. I love cars to bits!
-- 🤔 Check out my repositories. If you have improvements to do, don't hesitate.
-- 🌱 Digital creator. Here is my YouTube channel.(https://www.youtube.com/channel/UCfpETqFJoil49CyPJDPnvDw).
-- 🕵 Silent warrior.
-- 🏎️ I drive a Toyota Succeed as my daily 😇. 
+- 🏎️ I drive a 2015 Toyota Succeed as my daily 😇. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
