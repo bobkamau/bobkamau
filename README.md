@@ -1,11 +1,11 @@
 <h3 align="left"> Hey there👋, I'm Robert Sammy Kamau Mwangi, A passionate Software developer from Nairobi, Kenya.</h3>
-Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.com/ Find me @ [www.bobbymwangi.com] to checkout my blogs.
+Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.com/. Find me @ [www.bobbymwangi.com] to checkout my blogs.
  <br>
 <div align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
 </div>
 
-## I'm a Businessman, Contract Developer, Writer, DSA, and Blogger!
+## I'm a Businessman, Contract Developer, Writer, DSA, Avid Gamer, and Blogger!
 - 🎓 I have a degree in Business and IT.
 - 🎓 I am currently pursuing my masters degree in Liverpool John Moores University.
 - 🎓 I'm currently a software engineering student at ALX, and a contract developer working under Itinga Technologies (www.itinga.co.ke).
