@@ -1,15 +1,14 @@
 <h3 align="left"> Hey there👋, I'm Robert Sammy Kamau Mwangi, A passionate Software developer from Nairobi, Kenya.</h3>
-As stated above, I'm Robert Sammy Kamau - aka [Silent warrior]. Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.com/ Find me @ [www.bobbymwangi.com] to checkout my blogs.
+Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.com/ Find me @ [www.bobbymwangi.com] to checkout my blogs.
  <br>
 <div align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
 </div>
 
-## I'm a Businessman, Contract Developer, and Blogger!
+## I'm a Businessman, Contract Developer, Writer, DSA, and Blogger!
 - 🎓 I have a degree in Business and IT.
 - 🎓 I am currently pursuing my masters degree in Liverpool John Moores University.
-- 🎓 I'm currently a software engineering student and contract developer working under Itinga Technologies (www.itinga.co.ke).
-- 🤝 I'm looking to collaborate with other software engineers, writers and bloggers.
+- 🎓 I'm currently a software engineering student at ALX, and a contract developer working under Itinga Technologies (www.itinga.co.ke).
 - 🏎️ Contribute to automotive systems and fulfill a dying passion.
 - 🌞 2023 goals: Contribute more to Open Source projects.
 - ⚡️ Fun fact: I am a petrol head🏎️. I love cars to bits!
