@@ -5,14 +5,14 @@ Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.co
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
 </div>
 
-## I'm a Businessman, Contract Developer, Writer, DSA, Avid Gamer, and Blogger!
+## I'm a Businessman, Developer, Writer, DSA, Avid Gamer, and Blogger!
 - 🎓 I have a degree in Business and IT.
 - 🎓 I am currently pursuing my masters degree in Liverpool John Moores University.
-- 🎓 I'm currently a software engineering student at ALX, and a contract developer working under Itinga Technologies (www.itinga.co.ke).
-- 🏎️ Contribute to automotive systems and fulfill a dying passion.
+- 🏢 Creative Digital Agency: https://bmdesignx.com.
+- 🏎️ Looking forward to contribute to automotive systems and fulfill a dying passion.
 - 🌞 2023 goals: Contribute more to Open Source projects.
 - ⚡️ Fun fact: I am a petrol head🏎️. I love cars to bits!
-- 🏎️ I drive a 2015 Toyota Succeed as my daily 😇. 
+- 🏎️ I drive a modified 2015 Toyota Succeed as my daily 😇. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
