@@ -1,5 +1,5 @@
 <h3 align="left"> Hey there👋, I'm Robert Sammy Kamau Mwangi, A passionate Software developer from Nairobi, Kenya.</h3>
-Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.com/. Find me @ [www.bobbymwangi.com] to checkout my blogs.
+Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.com/. Find me @ [https://bobbymwangi.com] to checkout my blogs.
  <br>
 <div align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
