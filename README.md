@@ -7,11 +7,11 @@ Here is my portfolio site showcasing my skills; https://portfolio.bobbymwangi.co
 
 ## I'm a Businessman, Developer, Writer, DSA, Avid Gamer, and Blogger!
 - 🎓 I have a degree in Business and IT.
-- 🎓 I am currently pursuing my masters degree in Liverpool John Moores University.
+- 🎓 I am currently pursuing my master's degree in LJMU
 - 🏢 Creative Digital Agency: https://bmdesignx.com.
-- 🏎️ Looking forward to contribute to automotive systems and fulfill a dying passion.
+- 🏎️ Looking forward to contributing to automotive systems and fulfilling a dying passion.
 - 🌞 2023 goals: Contribute more to Open Source projects.
-- ⚡️ Fun fact: I am a petrol head🏎️. I love cars to bits!
+- ⚡️ Fun fact: I am a petrolhead 🏎️. I love cars to bits!
 - 🏎️ I drive a modified 2015 Toyota Succeed as my daily 😇. 
 
 <h3 align="left">Languages and Tools:</h3>
