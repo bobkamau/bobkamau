@@ -6,13 +6,10 @@ Here is my site showcasing my skills; https://bob9.me/.
 </div>
 
 ## I'm a Businessman, Developer, Writer, Affiliate Marketer, Avid Gamer, and Blogger!
-- 🎓 I have a degree in Business and IT.
-- 🎓 I am currently pursuing my master's degree in LJMU
 - 🏢 Creative Digital Agency: https://bmdesignx.com.
-- 🏎️ Looking forward to contributing to automotive systems and fulfilling a dying passion.
 - 🌞 2023 goals: Contribute more to Open Source projects.
 - ⚡️ Fun fact: I am a petrolhead 🏎️. I love cars to bits!
-- 🏎️ I drive a modified 2015 Toyota Succeed as my daily 😇. 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
