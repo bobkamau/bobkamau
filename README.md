@@ -1,5 +1,5 @@
-<h3 align="left"> Hey there👋, I'm Robert Sammy Kamau, A passionate Software developer from Nairobi, Kenya.</h3>
-Here is my site showcasing my skills; https://bob9.me/.
+<h3 align="left"> Hey there👋, I'm Bob Kamau, A passionate Software developer from Nairobi, Kenya.</h3>
+Here is my site showcasing my skills: https://bobkamau.com/.
  <br>
 <div align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" width="1000" height="300"/>
@@ -7,7 +7,7 @@ Here is my site showcasing my skills; https://bob9.me/.
 
 ## I'm a Businessman, Developer, Writer, Affiliate Marketer, Avid Gamer, and Blogger!
 - 🏢 Creative Digital Agency: https://bmdesignx.com.
-- 🌞 2023 goals: Contribute more to Open Source projects.
+- 🌞 2023 goals: Contribute more to open-source projects.
 - ⚡️ Fun fact: I am a petrolhead 🏎️. I love cars to bits!
 
 
@@ -24,7 +24,7 @@ Here is my site showcasing my skills; https://bob9.me/.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bobkamau&theme=highcontrast&show_icons=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobkamau&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Lets Connect 🌎
+### Let's Connect 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bob-mwangi-b4b626161/)](https://www.linkedin.com/in/bob-mwangi-b4b626161/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Silentw84343056)](https://twitter.com/Silentw84343056)
  
