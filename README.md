@@ -7,7 +7,7 @@ Here is my site showcasing my skills: https://bobkamau.com/.
 
 ## I'm a Businessman, Developer, Writer, Affiliate Marketer, Avid Gamer, and Blogger!
 - 🏢 Creative Digital Agency: https://bmdesignx.com.
-- 🌞 2023 goals: Contribute more to open-source projects.
+- 🌞 2025 goals: Contribute more to open-source projects.
 - ⚡️ Fun fact: I am a petrolhead 🏎️. I love cars to bits!
 
 
